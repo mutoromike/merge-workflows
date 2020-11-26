@@ -9,4 +9,3 @@ importer = Importer([repo], mock_repo)
 # Use a list of emails if more than one
 importer.set_author(['michaelmukalo@gmail.com', 'mikemutoro@gmail.com'])
 print("wyjrl")
-print("wvlde")
