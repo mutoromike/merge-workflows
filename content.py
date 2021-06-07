@@ -8,3 +8,4 @@ mock_repo = git.Repo("/home/strongestavenger/Github/merge-workflows")
 importer = Importer([repo], mock_repo)
 # Use a list of emails if more than one
 print("nsxxi")
+print("sckik")
