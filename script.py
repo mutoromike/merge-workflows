@@ -2,7 +2,7 @@ import git
 from git_contributions_importer import *
 
 # Your private repo or Bitbucket repo
-repo = git.Repo("/home/strongestavenger/Github/Tunga/hefaistos-frontend")
+repo = git.Repo("/home/strongestavenger/Bitbucket/extraction_services")
 # Your mock repo
 mock_repo = git.Repo("/home/strongestavenger/Github/merge-workflows")
 importer = Importer([repo], mock_repo)
